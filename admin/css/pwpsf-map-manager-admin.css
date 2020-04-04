@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .address {
+ 	width: 80%; 
+ }
+ .geocoder {
+ 	width: 15%; 
+ }
+ .maparea {
+	height: 50vh;
+	width: 100%;
+}
